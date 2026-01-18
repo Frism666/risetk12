@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduScout US - Researcher AI",
+  "description": "A specialized research tool using Gemini AI with Google Search grounding to identify and catalog US educational institutions, faculty hierarchies, and professional contact information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
